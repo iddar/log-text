@@ -4,7 +4,7 @@
   "description": "Twitter clone",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/index.js"
+    "test": "mocha test/*"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/iddar/log-text/issues"
   },
-  "homepage": "https://github.com/iddar/log-text"
+  "homepage": "https://github.com/iddar/log-text",
+  "devDependencies": {
+    "chai": "^3.2.0"
+  }
 }
