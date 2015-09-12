@@ -1,0 +1,26 @@
+{
+  "name": "log-text",
+  "version": "0.0.1",
+  "description": "Twitter clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iddar/log-text.git"
+  },
+  "keywords": [
+    "twitter",
+    "elasticsearch",
+    "test",
+    "websockets",
+    "react"
+  ],
+  "author": "iddar olivares <iddar@dbug.mx>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iddar/log-text/issues"
+  },
+  "homepage": "https://github.com/iddar/log-text"
+}
